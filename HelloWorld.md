@@ -4,7 +4,7 @@ author: "Eric Wardlaw"
 date: "April 12, 2016"
 output: html_document
 ---
-```{r}## This is a markdown file
+## This is a markdown file
 
 ```
 
